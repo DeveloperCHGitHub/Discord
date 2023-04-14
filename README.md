@@ -3,6 +3,7 @@ Creación de bots.
 Datos que debe poder obtener:
 - Nombre de usuario
 - Número de usuario que será el número de orden de entrada del usuario, eliminando el orden de los usuarios que salen.
+
 Comandos:
 - Poder crear variables que almacenen texto.
 - Variables que muestren números random
